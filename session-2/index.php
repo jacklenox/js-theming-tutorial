@@ -33,7 +33,7 @@
 				// There was a connection error of some sort
 			};
 
-			request.send();	
+			request.send();
 
 			function changePost( event ) {
 				event.preventDefault();
@@ -58,7 +58,7 @@
 					// There was a connection error of some sort
 				};
 
-				request.send();			
+				request.send();
 
 
 			}
